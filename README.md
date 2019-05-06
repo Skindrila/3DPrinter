@@ -13,5 +13,9 @@ This is my progect - 3D printer based on CD/DVD drivers.
 You also need 3 CD/DVD drives with stepper motors, plastic for printing and various consumables.
 
 ****
+# How it works.
+There are 3 CD-DVD drives. One will move along the x axis, the second along the y axis, and the third along the z axis. The x-drive will be under the print surface (i.e. it will be movable). The y-drive will be fixed at an angle of 90 degrees to the x-drive. The z-drive will be attached to the y-drive (i.e. it will move with it).
+
+****
 # Used software.
 I use Pronterface to control the printer. You can download it from the link (https://bit.ly/2vEQcSh) or from this folder.

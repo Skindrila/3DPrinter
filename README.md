@@ -1,7 +1,7 @@
 This is my progect - 3D printer based on CD/DVD drivers.
-# Components with links: 
 **** 
-| Функция | Требования | 
+# Components with links: 
+| Component | Link | 
 |:---|:---| 
 | Arduino Mega 2560 and Ramps 1.4 with stepper motor drivers | https://bit.ly/2VSE2nO | 
 | NEMA 17 Extruder | https://bit.ly/2DPsnvq | 
@@ -9,3 +9,4 @@ This is my progect - 3D printer based on CD/DVD drivers.
 | 12V Power Supply | https://bit.ly/2VjSWnm | 
 | Three Endstop Switches | https://bit.ly/300PQmQ| 
 | Teflon tube for 1.75 mm plastic | https://bit.ly/2J3NOxo | 
+You also need 3 CD/DVD drives, plastic for printing and various consumables.
